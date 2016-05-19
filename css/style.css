@@ -20,7 +20,7 @@ html, body {
 
 body {
 	color: #292929;
-	background: #fff9f5;
+	background:cyan;
 	-webkit-font-smoothing:antialiased;
 	oz-osx-font-smoothing: grayscale;
 	font-family: 'Open Sans', sans-serif;
